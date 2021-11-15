@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:portfolio_application/profilepage.dart';
 
-void main(List<String> args) {
+void main() {
   runApp(const MyApp());  
 }
 
